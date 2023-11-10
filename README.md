@@ -5,7 +5,7 @@
 <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 
 Hey have a look at my projects !
-| Projet | Link to the Project |
+| Project | Link to the Project |
 | ------------- | --------------------------------------------------------------------------------------------------------------- |
 | Install_auto_Docker | :smiley_cat: [Link project](https://github.com/NANDILLONMaxence/Install_auto_Docker) |                              
 | Install_auto_VMware-tools      | :heart_eyes_cat: [Link project](https://github.com/NANDILLONMaxence/Install_auto_VMware-tools) |
