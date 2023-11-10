@@ -7,8 +7,8 @@
 
 | Projet | Link to the Project |
 | ------------- | --------------------------------------------------------------------------------------------------------------- |
-| Install_auto_Docker | :smiley_cat: [Link project](https://github.com/NANDILLONMaxence/Install_auto_Docker) |
+| Install_auto_Docker | :smiley_cat: [Link project](https://github.com/NANDILLONMaxence/Install_auto_Docker) |                              
 | Install_auto_VMware-tools      | :heart_eyes_cat: [Link project](https://github.com/NANDILLONMaxence/Install_auto_VMware-tools) |
 
+<img src="https://media.tenor.com/KdkhCJ65m0sAAAAi/peach-goma-peach-and-goma.gif" width="10%" />
 
-<img src="https://media.tenor.com/KdkhCJ65m0sAAAAi/peach-goma-peach-and-goma.gif" />
