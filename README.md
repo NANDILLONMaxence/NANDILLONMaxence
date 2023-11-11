@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @NANDILLONMaxence
 - 👀 I’m interested in computer networks
 - 🌱 I’m currently learning BTS SIO SISR (Infrastructure, systems and network solutions)
-- 💞️ I like the elder scroll online and script
+- 💞️ I like the elder scroll online and scripting !
 
 
 Hey have a look at my projects !
