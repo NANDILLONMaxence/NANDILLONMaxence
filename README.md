@@ -7,7 +7,7 @@
 
 
 Hey have a look at my projects !
-| Project | Link to the Project |
+| Project | Link Project |
 | ------------- | --------------------------------------------------------------------------------------------------------------- |
 | Install_auto_Docker | :smiley_cat: [Link project](https://github.com/NANDILLONMaxence/Install_auto_Docker) |                              
 | Install_auto_VMware-tools      | :heart_eyes_cat: [Link project](https://github.com/NANDILLONMaxence/Install_auto_VMware-tools) |
