@@ -9,12 +9,16 @@
 Hey have a look at my projects !
 | Project | Link Project | Project | Link Project | Project | Link Project |                                                                                                  
 | ------------- | -------------| ------------- | ------------- |------------- |------------- |               
-| Install_auto_Docker | :smiley_cat: [Link project](https://github.com/NANDILLONMaxence/Install_auto_Docker) | dockprom | 😼 [Link project](https://github.com/NANDILLONMaxence/dockprom) | SaltStack | 🧂 [Link project](https://github.com/NANDILLONMaxence/SaltStacks) |                                  
-| Install_auto_VMware-tools      | :heart_eyes_cat: [Link project](https://github.com/NANDILLONMaxence/Install_auto_VMware-tools) | Vagrant  | 😹 [Link project](https://github.com/NANDILLONMaxence/Vagrant) | My_Tools | :hammer_and_pick: [Link project](https://github.com/NANDILLONMaxence/My_Tools) |  
-| Install_auto_Zabbix | 😾 [Link project](https://github.com/NANDILLONMaxence/Install_auto_Zabbix) | Packer |😸 [Link project](https://github.com/NANDILLONMaxence/Packer) |
+| Install_auto_Docker | 🐳 [Link project](https://github.com/NANDILLONMaxence/Install_auto_Docker) | dockprom | 🔭 [Link project](https://github.com/NANDILLONMaxence/dockprom) | SaltStack | 🧂 [Link project](https://github.com/NANDILLONMaxence/SaltStacks) |                                  
+| Install_auto_VMware-tools | 😎 [Link project](https://github.com/NANDILLONMaxence/Install_auto_VMware-tools) | Vagrant  | 📯 [Link project](https://github.com/NANDILLONMaxence/Vagrant) | My_Tools | :hammer_and_pick: [Link project](https://github.com/NANDILLONMaxence/My_Tools) |  
+| Install_auto_Zabbix | 📡 [Link project](https://github.com/NANDILLONMaxence/Install_auto_Zabbix) | Packer |💽 [Link project](https://github.com/NANDILLONMaxence/Packer) | MongoDB |🍃 [Link project](https://github.com/NANDILLONMaxence/Install_auto_MongoDB) |
+
+| Project | Link Project |                                                                                          
+| ------------- | -------------|          
+| Install_auto_Dynfi-MGMT| 🔬 [Link project](https://github.com/NANDILLONMaxence/Install_auto_Dynfi-MGMT) |                             
 
 | Private Project | Link Project |                                                                                               
-| ------------- | --------------------------------------------------------------------------------------------------------------- |
+| ------------- | ------------- |
 | Nutanix Script |🔒 [Link project](https://github.com/NANDILLONMaxence/Nutanix) |
 | VMware Script |🔒 [Link project](https://github.com/NANDILLONMaxence/VMware) |
 
