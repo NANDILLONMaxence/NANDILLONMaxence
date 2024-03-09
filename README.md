@@ -15,7 +15,9 @@ Hey have a look at my projects !
 
 | Project | Link Project |                                                                                          
 | ------------- | -------------|          
-| Install_auto_Dynfi-MGMT| 🔬 [Link project](https://github.com/NANDILLONMaxence/Install_auto_Dynfi-MGMT) |                             
+| Install_auto_Dynfi-MGR| 🔬 [Link project](https://github.com/NANDILLONMaxence/Install_auto_Dynfi-MGR) |                             
+| Install_auto_Java| ♨️ [Link project](https://github.com/NANDILLONMaxence/Install_auto_Java) |   
+| Install_auto_Guacamole| 🥑 [Link project](https://github.com/NANDILLONMaxence/Install_auto_Guacamole) |   
 
 | Private Project | Link Project |                                                                                               
 | ------------- | ------------- |
