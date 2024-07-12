@@ -1,10 +1,10 @@
 <img src=https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png />
 
 - 👋 Hi, I’m @NANDILLONMaxence
-- 👀 I’m interested in computer networks
-- 🌱 I’m currently learning BTS SIO SISR (Infrastructure, systems and network solutions)
-- 💞️ I like the elder scroll online and scripting !
-
+- 👀 I’m interested in computer networks script script !
+- 🌱 I'm currently pursuing a bachelor's degree in network systems and cloud computing.
+- 💞️ I like the elder scroll online, Valheim, Rock and Stone !
+- 🎣 and I love catching big fish !
 
 Hey have a look at my projects !
 | Project | Link Project | Project | Link Project | Project | Link Project |                                                                                                  
