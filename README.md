@@ -19,10 +19,16 @@ Hey have a look at my projects !
 | Install_auto_Java | ♨️ [Link project](https://github.com/NANDILLONMaxence/Install_auto_Java) | My_ERROR | 🚧 [Link project](https://github.com/NANDILLONMaxence/My_ERROR) | Windows_server | 🤤 [Link project](https://github.com/NANDILLONMaxence/Windows_server) |   
 | Install_auto_Guacamole | 🥑 [Link project](https://github.com/NANDILLONMaxence/Install_auto_Guacamole) | Web-service | 🌐 [Link project](https://github.com/NANDILLONMaxence/Web-service) |  Auto_sauv | 💾 [Link project](https://github.com/NANDILLONMaxence/Script_Autonome_de_Sauvegarde) |
 
+| Project | Link Project | Project | Link Project | Project | Link Project |                                                                                        
+| ------------- | -------------| ------------- | ------------- |------------- | ------------- |
+| Projet-LPIC-101 | 🐧 [Link project](https://github.com/NANDILLONMaxence/Projet-LPIC-101) |  |  |  |  |
+|  |  |  |  |  |  |   
+|  |  |  |  |   |  |
+
 | Private Project | Link Project | Project | Link Project |                                                                                             
 | ------------- | -------------| ------------- | ------------- |
-| Nutanix Script |🔒 [Link project](https://github.com/NANDILLONMaxence/Nutanix) | Projet-LPIC-101 | 🔒 [Link project](https://github.com/NANDILLONMaxence/Projet-LPIC-101) |
-| VMware Script |🔒 [Link project](https://github.com/NANDILLONMaxence/VMware) | ARB_Routage | 🔒 [Link project](https://github.com/NANDILLONMaxence/ARB_Routage) |
+| Nutanix Script |🔒 [Link project](https://github.com/NANDILLONMaxence/Nutanix) |ARB_Routage | 🔒 [Link project](https://github.com/NANDILLONMaxence/ARB_Routage)|
+| VMware Script |🔒 [Link project](https://github.com/NANDILLONMaxence/VMware) | | |
 | Master-Slave-MySQL |🔒 [Link project](https://github.com/NANDILLONMaxence/Master-Slave-MySQL) |
 
 
